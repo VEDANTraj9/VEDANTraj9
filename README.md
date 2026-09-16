@@ -33,7 +33,7 @@
 
 | 🏢 Company | 💼 Role | 🌍 Location |
 |-----------|--------|------------|
-| **Mojija E-commerce Pvt Ltd** | Full Stack Developer | India 🇮🇳 |
+| **Mojija E-commerce Pvt Ltd** | Full Stack Developer | India 🇮🇳 Greater Noida |
 
 > 🛒 Building powerful e-commerce solutions with Java, Spring Boot, Angular & React
 
